@@ -399,7 +399,7 @@ nav div div {
 }
 
 
-@media(max-width:390px) {
+@media(max-width:400px) {
     #skills div i {
         font-size: 40px;
     }
